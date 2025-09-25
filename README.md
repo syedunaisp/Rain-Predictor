@@ -20,7 +20,8 @@ It contains historical weather observations such as temperature, humidity, wind 
 
 ## Results
 - Built a rain prediction model that classifies whether it will rain tomorrow.  
-- Highlighted the most influential features such as humidity, temperature, and pressure.  
+- Highlighted the most influential features such as humidity, temperature, and pressure.
+- Achieved an accuracy of 84.69% using RandomForestClassifier 
 
 ## How to Run
 1. Clone the repository:  
